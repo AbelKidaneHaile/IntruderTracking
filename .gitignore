@@ -1,0 +1,10 @@
+# Ignore specific file types
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.mov
+*.pt
+*.h5
+

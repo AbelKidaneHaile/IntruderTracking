@@ -1,0 +1,8 @@
+{
+    "yolov8_model_path": "head_detection_model/best.pt",
+    "yolov8_confidence": 0.5,
+    "video_path": "original_video/Morning_Dynamic_Front_Compact_NoMask.mp4",
+    "query_path": "queries/query1",
+    "video_save_path": "output/video",
+    "ghostfacenets_model_path": "ghostfacenets_model/GN_W0.5_S2_ArcFace_epoch16.h5"
+}
